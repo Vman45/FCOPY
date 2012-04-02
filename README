@@ -1,3 +1,7 @@
-#Copiez vos fichiers vidéos - ou autre - directement sur la Freebox Révolution#
+Title:  Lisez-moi  
+Author: Fabien RASSINIER
+Date:   April 02, 2012 
+
+<h1>Copiez vos fichiers vidéos - ou autre - directement sur la Freebox Révolution</h1>
 Pensez à modifier le fichier .bat pour l'adapter
 Créez votre tâche CRON pour lancer ce fichier régulièrement...
