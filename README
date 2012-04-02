@@ -1,5 +1,4 @@
-Copiez vos fichiers vidéos - ou autre - directement sur la Freebox Révolution
-=============================================================================
+# Copiez vos fichiers vidéos - ou autre - directement sur la Freebox Révolution
 
 Pensez à modifier le fichier .bat pour l'adapter
 Créez votre tâche CRON pour lancer ce fichier régulièrement...
